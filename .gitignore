@@ -1,0 +1,19 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# 环境变量与密钥（严禁提交）
+.env
+.env.*
+*.key
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
